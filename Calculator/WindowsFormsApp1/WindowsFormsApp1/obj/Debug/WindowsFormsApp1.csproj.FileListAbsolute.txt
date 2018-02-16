@@ -1,0 +1,9 @@
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\89382\Desktop\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
